@@ -9,5 +9,7 @@ Commands I want to become comfortable with:
 - git push
 - git pull
 - git branch
+- git checkout
+- git merge
 
 One useful lesson is that small commits with clear messages make a project easier to understand.
