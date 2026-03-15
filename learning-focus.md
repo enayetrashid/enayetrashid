@@ -9,3 +9,4 @@ My current areas are:
 - understanding how code structure affects testing
 - writing small unit tests with pytest
 - learning how to explain my work clearly in Markdown
+- improving confidence by building small practice projects
