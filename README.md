@@ -13,6 +13,12 @@ This GitHub profile is where I will upload my work and track my learning progres
 - software testing fundamentals
 - unit testing
 
+## Project highlights
+
+- Python Calculator Evolution
+- ATM Simulator
+- BankLite Automation Practice
+
 ## Current goal
 
 Build a small but clear portfolio that shows my learning journey.
