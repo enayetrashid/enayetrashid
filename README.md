@@ -4,7 +4,7 @@ My name is Enayet.
 
 I am learning Python and software testing with the goal of becoming a QA Engineer / Software Tester.
 
-This GitHub profile is where I will upload my work and track my learning progress.
+This GitHub profile is where I upload my work and track my learning progress.
 
 ## What I am focusing on now
 
@@ -18,6 +18,10 @@ This GitHub profile is where I will upload my work and track my learning progres
 - Python Calculator Evolution
 - ATM Simulator
 - BankLite Automation Practice
+
+## Learning journal
+
+I am also writing short notes about what I learn while practising.
 
 ## Current goal
 
